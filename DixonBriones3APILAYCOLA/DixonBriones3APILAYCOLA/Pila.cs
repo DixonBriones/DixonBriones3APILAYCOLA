@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace DixonBriones3APILAYCOLA.Clases
+namespace DixonBriones3APILAYCOLA
 {
 
     class NodoPila
