@@ -10,7 +10,7 @@ namespace DixonBriones3APILAYCOLA
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("hOLA");
+            
         }
     }
 }
